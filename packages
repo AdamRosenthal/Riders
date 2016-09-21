@@ -1,0 +1,15 @@
+
+#usefull packages:
+
+#Classification and Regression:
+install.packages("caret")
+
+#Breiman and Cutler's Random Forests for Classification and Regression
+install.packages("randomForest")
+
+#Recursive partitioning for classification, regression and survival trees
+install.packages('rpart', dependencies = TRUE)
+
+
+#Spherical trigonometry for geographic applications. That is, compute distances and related measures for angular (longitude/latitude) locations.
+install.packages("geosphere")
