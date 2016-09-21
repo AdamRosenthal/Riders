@@ -1,2 +1,2 @@
 # Riders
-Wix Challenge hackathon
+WinWard Challenge hackathon
